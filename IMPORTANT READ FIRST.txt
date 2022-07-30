@@ -1,0 +1,30 @@
+To play the webgl game 
+first install
+a small local server starter 
+
+https://greggman.github.io/servez/
+
+after installing select the folder with webgl build
+and then lauch in browser
+
+
+the controls are 
+
+left/right click to rotate and move chairs and laptops
+"q" to pickup/drop main laptop
+"e" to pickup and drop cups
+right click to unlock door
+
+
+objective
+exit the room
+
+hints
+place cups in place
+place chairs in place
+rotate the laptops
+
+look at the map on the mainlaptop and on the wall to figure out how the room is supposed to be
+
+
+by abhishek rawat
