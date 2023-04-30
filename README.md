@@ -3,7 +3,7 @@
 An Escape room style game with different tasks to do to win
 made in unity 3d
 
-webgl version can be played on -
+webgl version can be played on - https://abhirwdev.itch.io/the-office-escape
 
 controls
 
