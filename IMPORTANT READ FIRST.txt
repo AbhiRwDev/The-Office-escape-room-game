@@ -1,14 +1,9 @@
-To play the webgl game 
-first install
-a small local server starter 
+An Escape room style game with different tasks to do to win
+made in unity 3d
 
-https://greggman.github.io/servez/
+webgl version can be played on -
 
-after installing select the folder with webgl build
-and then lauch in browser
-
-
-the controls are 
+controls
 
 left/right click to rotate and move chairs and laptops
 "q" to pickup/drop main laptop
